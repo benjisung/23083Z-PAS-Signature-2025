@@ -1,0 +1,12 @@
+/bin
+/build
+compile_commands.json
+.vscode/
+.cache/
+*.o
+*.obj
+*.bin
+*.elf
+*.map
+.DS_Store
+Thumbs.db
