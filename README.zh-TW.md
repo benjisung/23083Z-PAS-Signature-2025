@@ -8,8 +8,6 @@
 
 此 repository 是賽事版本的歷史快照，保留當時使用的程式、測試功能及針對該台機器人調整的參數。
 
-![Push Back 場地上的 autonomous 路徑記錄](path/VEX_RED_SOLO.png)
-
 ## 主要功能
 
 - 以 [JAR-Template](https://github.com/JacksonAreaRobotics/JAR-Template) 為基礎的六馬達坦克底盤

@@ -8,8 +8,6 @@ The event was held at Pacific American School in Hsinchu, Taiwan, from December 
 
 This repository is a historical competition snapshot. It preserves the code as used around the event, including experimental routines and tuning values that are specific to this robot.
 
-![Recorded autonomous path on the Push Back field](path/VEX_RED_SOLO.png)
-
 ## Highlights
 
 - Six-motor tank drivetrain built on [JAR-Template](https://github.com/JacksonAreaRobotics/JAR-Template)
@@ -127,7 +125,6 @@ The values below are taken directly from `src/robot-config.cpp`.
 │   ├── odometry.h          # Pose, waypoint, and navigation APIs
 │   ├── robot-config.h      # Hardware declarations
 │   └── vex.h               # Shared project includes
-├── path/                   # Field/path-planning reference images
 ├── src/
 │   ├── JAR-Template/       # JAR-Template implementation
 │   ├── autons.cpp          # Match and skills autonomous routines
